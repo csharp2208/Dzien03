@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace OOP.Operatory
 {
-    /// <summary>
-    /// Przeciążanie operatorów
-    /// </summary>
+    
+    // Przeciążanie operatorów
+    
     class Wektor
     {
         double x;
