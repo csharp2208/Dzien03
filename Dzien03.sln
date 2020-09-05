@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasy", "Klasy\Klasy.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{0A23B0D2-C878-4E25-88E2-CA6E0E669A49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniShop", "MiniShop\MiniShop.csproj", "{0F7FB6E1-1D95-4652-BA1F-F35539720CE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0A23B0D2-C878-4E25-88E2-CA6E0E669A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A23B0D2-C878-4E25-88E2-CA6E0E669A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A23B0D2-C878-4E25-88E2-CA6E0E669A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7FB6E1-1D95-4652-BA1F-F35539720CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7FB6E1-1D95-4652-BA1F-F35539720CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7FB6E1-1D95-4652-BA1F-F35539720CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7FB6E1-1D95-4652-BA1F-F35539720CE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
